@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Jardim.</h1>
 <h3 align="center">A passionate Gamer and Full-Stack Developer from Brazil.</h3>
 
-- 🔭 I’m currently working in [The Rio Grande do Sul State Government](https://estado.rs.gov.br/)
+- 🔭 I’m currently working in [Government of the State of Rio Grande do Sul](https://estado.rs.gov.br/)
 
 - 🌱 I’m currently learning **Frontend/Backend, Android and Software Engineer.**
 
