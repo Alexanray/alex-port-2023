@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [The Rio Grande do Sul State Government](https://estado.rs.gov.br/)
 
-- 🌱 I’m currently learning **Android, Frontend/Backend and Software Engineer.**
+- 🌱 I’m currently learning **Frontend/Backend, Android and Software Engineer.**
 
 - 👯 I’m looking to collaborate on **Gamming, Marketing, Management, Programming or Development.**
 
