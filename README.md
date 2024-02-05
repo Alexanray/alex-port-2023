@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Gamming, Marketing, Management, Programming or Development.**
 
-- 📫 How to reach me **alexanray@yahoo.com.br**
+- 📫 How to reach me **alexanraydev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-jardim-a77a9564/](https://www.linkedin.com/in/alexandre-jardim-a77a9564/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/alexandrejardim/](https://www.linkedin.com/in/alexandrejardim/)
 
 - ⚡ Fun fact **I am a highly skilled individual with excellent communication skills and a natural talent for leadership and business management. My oratory and writing skills are exceptional, allowing me to communicate effectively with people from all around the world. I possess a strong sense of determination, coupled with a keen eye for detail, making me an ideal candidate for any role that requires a high level of attention to detail. My ability to prioritize tasks and work efficiently under tight deadlines is second to none, and I am always eager to learn and improve my skills. I am confident that I can make a positive impact on any company that I work for.**
 
